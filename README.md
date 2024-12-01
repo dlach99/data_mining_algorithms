@@ -1,4 +1,4 @@
-# data mining algorithms for data preprocessing - data reduction 
+# data mining algorithms for data preprocessing - data reduction in C 
 
 This is a data mining project divided in three parts.  Below is a description of the individual components:
 
